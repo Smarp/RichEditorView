@@ -652,4 +652,3 @@ var ToolbarHandle: UInt8 = 0
             return customInputAccessory as? UIView
         }
     }
-
